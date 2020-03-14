@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saechuosap.shenyang.wiki/sitemap.xml
